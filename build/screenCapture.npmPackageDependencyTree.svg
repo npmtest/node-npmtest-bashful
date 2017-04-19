@@ -1,0 +1,22 @@
+<svg height="302" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="302" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ bashful@1.8.0 </tspan>
+<tspan x="10" y="90">  ├─┬ decode-prompt@0.0.2 </tspan>
+<tspan x="10" y="106">  │ └── strftime@0.6.2 </tspan>
+<tspan x="10" y="122">  ├── duplexer@0.0.4 </tspan>
+<tspan x="10" y="138">  ├── inherits@1.0.2 </tspan>
+<tspan x="10" y="154">  ├── minimist@0.0.10 </tspan>
+<tspan x="10" y="170">  ├── resumer@0.0.0 </tspan>
+<tspan x="10" y="186">  ├── rotate-array@0.1.0 </tspan>
+<tspan x="10" y="202">  ├─┬ shell-quote@1.4.3 </tspan>
+<tspan x="10" y="218">  │ ├── array-filter@0.0.1 </tspan>
+<tspan x="10" y="234">  │ ├── array-map@0.0.0 </tspan>
+<tspan x="10" y="250">  │ ├── array-reduce@0.0.0 </tspan>
+<tspan x="10" y="266">  │ └── jsonify@0.0.0 </tspan>
+<tspan x="10" y="282">  └── through@2.3.8</tspan>
+</text>
+</svg>
